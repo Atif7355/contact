@@ -25,8 +25,8 @@ export const Contact = () => {
             </a>
         </div>
         <div className="right">
-        <h1 style={{transform:"translate(130px,100px)",color:"blue",fontFamily:"sans-serif",fontSize:"50px"}}>Aman Pal Singh Rana</h1>
-        <h2 style={{transform:"translate(125px,50px)",color:"green",fontSize:"50px"}}>Mobile-<img src={mobile} alt="Gmail" width="50px" style={{transform:"translate(1px,10px)"}}></img>:7706059995</h2>
+        <h1 style={{transform:"translate(100px,100px)",color:"blue",fontFamily:"sans-serif",fontSize:"50px"}}>Aman Pal Singh Rana</h1>
+        <h2 style={{transform:"translate(95px,50px)",color:"green",fontSize:"50px"}}>Mobile-<img src={mobile} alt="Gmail" width="50px" style={{transform:"translate(1px,10px)"}}></img>:7706059995</h2>
             <img src={contact1} alt="Gmail" width="250px" style={{transform:"translate(250px,30px)"}}></img>
             <a href="mailto:amanpalsinghrana27@gmail.com">
             <img src={gmail} alt="Gmail" width="50" style={{transform:"translate(-10px,100px)",cursor:"arrow"}}></img>
